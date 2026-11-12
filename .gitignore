@@ -1,0 +1,23 @@
+# Build
+*.o
+*.exe
+cart
+cart_asan
+build/
+cmake-build-*/
+
+# IDE
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
+x64/
+Debug/
+Release/
+
+# Dữ liệu chạy thử
+cart.txt
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
